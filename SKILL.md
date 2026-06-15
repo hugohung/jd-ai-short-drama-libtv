@@ -19,7 +19,7 @@ agent_created: true
 ## 前置依赖
 
 1. **剧本助手产出**：用户必须已通过「京东AI短剧剧本助手」生成完整剧本文档（Markdown 格式）
-2. **LibTV CLI**：已安装 `libtv` 命令行工具（版本 ≥ 1.0.2），安装路径 `C:\Users\honghaoxiang\.libtv\libtv.exe`
+2. **LibTV CLI**：已安装 `libtv` 命令行工具（版本 ≥ 1.0.2），下载地址 `https://liblibai-web-static.liblib.cloud/cli/1.0.2/libtv-cli-skill.zip`，默认安装路径 `%USERPROFILE%\.libtv\libtv.exe`（Windows）/ `~/.libtv/libtv`（macOS/Linux）
 3. **LibTV 登录**：用户必须已完成 `libtv login web` 或 `libtv login phone` 登录
 4. **libtv-cli skill**：已安装 libtv-cli skill（`~/.workbuddy/skills/libtv-cli/`），所有 libtv 操作通过此 skill 的命令完成
 
