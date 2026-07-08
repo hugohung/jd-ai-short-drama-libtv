@@ -1,7 +1,7 @@
 ---
 name: jd-ai-short-drama-libtv
 description: libtv脚本及分镜生成助手 - 将剧本文档上传至LibTV画布，自动完成项目创建、节点布局、脚本生成和分镜图准备
-version: "1.1.0"
+version: "1.1.1"
 agent_created: true
 author: honghaoxiang
 ---
