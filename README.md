@@ -1,10 +1,10 @@
 # 🎬 LibTV 脚本及分镜生成助手
 
-> **WorkBuddy Skill** — 将京东AI短剧剧本助手产出的剧本文档上传至 LibTV 画布，自动完成项目创建、节点布局、脚本生成和分镜图准备
+> **Agent Skill** — 将京东AI短剧剧本助手产出的剧本文档上传至 LibTV 画布，自动完成项目创建、节点布局、脚本生成和分镜图准备
 
 [![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/hugohung/workbuddy-skill-jd-ai-short-drama-libtv/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![WorkBuddy](https://img.shields.io/badge/WorkBuddy-skill-orange.svg)](https://www.codebuddy.cn)
+[![Agent Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](#)
 
 ---
 
@@ -56,7 +56,7 @@ https://liblibai-web-static.liblib.cloud/cli/1.0.2/libtv-cli-skill.zip
 
 ### 使用示例
 
-在 WorkBuddy 对话中直接说：
+在支持 Skill 的 Agent 对话中直接说：
 
 ```
 进入libtv出片助手
@@ -192,10 +192,10 @@ Agent **绝对禁止**执行任何视频生成操作，包括：
 
 ## 📦 安装方式
 
-### 方式一：WorkBuddy 用户
+### 方式一：Agent 用户
 
 1. 下载 [最新 Release zip](https://github.com/hugohung/workbuddy-skill-jd-ai-short-drama-libtv/releases/latest)
-2. 在 WorkBuddy **技能管理** → **上传技能**，选择 zip 文件
+2. 在 Agent 客户端的 **Skill 管理** → **上传技能**，选择 zip 文件
 
 ### 方式二：从源码安装
 
@@ -224,7 +224,7 @@ https://liblibai-web-static.liblib.cloud/cli/1.0.2/libtv-cli-skill.zip
 ## 🔗 相关 Skill
 
 - [**京东AI短剧剧本助手**](https://github.com/hugohung/workbuddy-skill-jd-ai-short-drama-helper) — 生成符合京东规范的短剧剧本
-- [**libtv-cli**](https://github.com/hugohung/workbuddy-skill-libtv-cli) — LibTV 官方 CLI 的 WorkBuddy 集成
+- [**libtv-cli**](https://github.com/hugohung/workbuddy-skill-libtv-cli) — LibTV 官方 CLI 的 Agent 集成
 - [**热门话题及短剧题材调研专家**](https://github.com/hugohung/workbuddy-skill-drama-topic-research) — 调研短剧题材和热点话题
 
 ---
@@ -275,7 +275,7 @@ libtv login web
 **honghaoxiang**
 
 - GitHub: [@hugohung](https://github.com/hugohung)
-- WorkBuddy: [codebuddy.cn](https://www.codebuddy.cn)
+- 适用环境：支持 Skill 的 Agent 客户端
 
 ---
 
